@@ -1,15 +1,10 @@
-# Meu repositorio git
+# Anicely Santos
 
-Nesse repositorio coloco o meu portfolio
+## Sobre
 
-Mais sobre mim 
-mas esqueci
+Olá, eu sou Anicely Santos e adoro desenvolver e trabalhar com dados. Se quiser saber mais sobre mim, pode acessar [minhas redes](facebook.com/anicelysantos) 
 
-## Existe um arquivo com lista de linguagens
+## Cursos
 
-As minhas experimentações
-
-Mergeando branchs
-
-Quero testar de estou conseguindo
-enviar ao github
+- Git e GitHub
+- Desenvolvimento Web
