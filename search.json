@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "curriculo.html",
+    "href": "curriculo.html",
+    "title": "About",
+    "section": "",
+    "text": "Título\n\nSeção: Experiência\nSeção: Formação\nSeção: Competências"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Anicely Santos",
+    "section": "",
+    "text": "Mestranda no Programa de Pós-graduação em Engenharia de Computação pela Universidade de Pernambuco (UPE). Formada em Análise e Desenvolvimento de Sistemas com especialização em Ciência de Dados e Analytics. Foi Presidenta da Associação Python Brasil (2024-2025)."
+  },
+  {
+    "objectID": "projetos-publicacoes.html",
+    "href": "projetos-publicacoes.html",
+    "title": "PROJETOS E PUBLICAÇÕES",
+    "section": "",
+    "text": "ANÁLISE DE DADOS\n\nQuem somos: mapa de talentos negros da tecnologia - Afroya TechHub e Instituto Sumauma\nCorpos-territórios quilombolas e o fio conectado da ancestralidade: entre as agendas de justiça climática e as práticas culturais e comunicacionais - Instituto Sumauma\n\n\n\nPUBLICAÇÕES\n\nContribuições da sociedade civil à Consulta Pública do Ministério do Meio Ambiente e Mudança do Clima (MMA) sobre a Regulamentação do Regime Especial de Tributação para Serviços de Data Centers (Redata) - IP.Rec, Lapin e IDEC\nExpondo stalker(ware): desafios legais e recomendações para o enfrentamento do stalkerware no Brasil - Instituto de Pesquisa em Direito e Tecnologia do Recife - IP.rec\nExpondo Stalker(ware): uma análise discursiva e técnica do ecossistema de stalkerware no Brasil - Instituto de Pesquisa em Direito e Tecnologia do Recife - IP.rec\nExpondo Stalker(ware): um panorama das produções científicas sobre o uso de stalkerware como tecnologia facilitadora de violência de gênero no Brasil - Instituto de Pesquisa em Direito e Tecnologia do Recife - IP.rec\nContribuição à tomada de subsídios da Política Nacional de Data Centers - IP.rec e Lapin\nIA, data centers e os impactos ambientais - Instituto de Pesquisa em Direito e Tecnologia do Recife - IP.rec\n\n\n\nARTIGOS EM BLOG\n\nA Inteligência artificial está chegando perto… mas não o bastante - Instituto de Pesquisa em Direito e Tecnologia do Recife - IP.rec\nPrecisamos falar sobre a necessidade da explicabilidade - Instituto de Pesquisa em Direito e Tecnologia do Recife - IP.rec\n\n\n\nTUTORIAIS\n\nRaspando dados de notícias utilizando Python e XML - Escola de Dados\nComo pedir e receber ajuda na internet - Escola de Dados\nCruzando dados de desmatamento e agropecuária com a base dos dados e Python - Escola de Dados\nCorrelação não é casualidade, mas o que é então - Escola de Dados\nRaspagem de dados sem programação - Escola de Dados\nPrimeiros passos com Python e Pandas para análise de dados - Escola de Dados\nExtraindo dados HTML com Python - Escola de Dados\nAutomatize a raspagem de dados sem programação com o WebScraper - Escola de Dados\nPrimeiros passos com Google Data Studio - Escola de Dados\nStorytelling com dados: estruturas, técnicas e mão na massa com Flourish - Escola de Dados\nIntrodução ao Git e GitHub: colaborando com projetos de código aberto - Escola de Dados\nFontes de dados de segurança pública no Brasil - Escola de Dados\nComo rastrear redes de desinformação - Escola de Dados\nAnalisando representatividade de candidaturas eleitorais - Escola de Dados\nLeve seus projetos de dados a outro nível utilizando Streamlit - Escola de Dados\n\n\n\nPALESTRAS\n\nCruzando dados com Pandas - Conferência Brasileira de Jornalismo de Dados e Métodos Digitais - Coda.Br\nLeve seus projetos de dados a outro nível com Streamlit - Conferência Brasileira de Jornalismo de Dados e Métodos Digitais - Coda.Br\nMelhorando a qualidade de dados com o Open Data Editor - Conferência Brasileira de Jornalismo de Dados e Métodos Digitais - Coda.Br\nPython para quem usa planilhas - Python Brasil"
+  },
+  {
+    "objectID": "contato.html",
+    "href": "contato.html",
+    "title": "About",
+    "section": "",
+    "text": "Ligue\n\n1234 - 5678"
+  }
+]
